@@ -1,5 +1,5 @@
 ## Advanced Analytics on PySpark
 
 ```
-This is wip - wathc this space....
+This is wip - watch this space....
 ```
